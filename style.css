@@ -1,0 +1,39 @@
+.mid-section{
+     text-align: center;
+     background-image: url('../Assignment-01/immage/donation13.jpg'); 
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+     background-position: center;
+     border:none;
+     padding: 150px;
+     margin-bottom: 50px;
+}
+.first-color{
+     color:rgba(255, 255, 255, 0.904);
+}
+h1{
+     font-size:45px;
+}
+.button-fix{
+     text-decoration: none;
+     background-color:orange;
+     border-radius: 28px;
+     padding: 10px;
+}
+.middle-part{
+     text-align:center;
+}
+.flexible-contain{
+ display:flex;
+}
+.flexible-contain{
+     margin: 5%;
+}
+
+.before-last{
+     display:flex;
+}
+.align{
+     text-align:center;
+}
