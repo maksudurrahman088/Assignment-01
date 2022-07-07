@@ -55,6 +55,9 @@ width:80%;
      width:60%;
      padding-right:6%;
 }
+.sec-width img{
+     width 80%
+}
 .shadow{
      width:50%;
      padding-left:5%;
@@ -80,8 +83,5 @@ width:80%;
      background-position: center;
 }
 .other-amount{
-          border: none;
-          background-color:transparent;
-          resize: none;
-          outline: none;
-      }
+    text-decoration:none;
+}
