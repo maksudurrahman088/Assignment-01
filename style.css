@@ -83,5 +83,9 @@ width:80%;
      background-position: center;
 }
 .other-amount{
-    text-decoration:none;
+     background-color: transparent;
+    border: 0px solid;
+    height: 20px;
+    width: 160px;
+    color: rgb(209, 208, 208);
 }
